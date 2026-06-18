@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+.chroma/
+1.Linear Regression.pdf
+test_connection.py
+test_rag.py
+test_notes.py
